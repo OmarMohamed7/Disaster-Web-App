@@ -49,3 +49,13 @@ models/ML Pipeline Preparation.ipynb: Notebook contains ML Pipeline.
 models/train_classifier.py: Machine learning pipeline that loads data, trains a model, and saves the trained model as a .pkl file.
 
 models/classifier.pkl: Trained model.
+
+![image](https://github.com/user-attachments/assets/8c5bfd71-ade1-4f85-a237-b55632f6b3d2)
+
+![image](https://github.com/user-attachments/assets/fefd6f2e-a914-4e0d-97b4-a215c8acd1c1)
+
+![image](https://github.com/user-attachments/assets/9fe9a0e8-d7b6-48df-9405-7315cb48628b)
+
+![image](https://github.com/user-attachments/assets/a79c524f-da5a-4c0e-bf75-6493cc20cefe)
+
+
